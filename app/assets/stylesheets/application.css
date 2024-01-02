@@ -13,3 +13,19 @@
  *= require_tree .
  *= require_self
  */
+body{
+  padding : 5rem;
+}
+ .card {
+  padding: 1.25rem;
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+  border: 1px solid #e9ecef;
+  border-left-width: 8rem;
+  border-radius: 0.25rem;
+  border-left-color: #5bc0de;
+}
+
+#answer {
+  background-color: rgb(253, 249, 193);
+}
